@@ -1,5 +1,5 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "Drippy-kid_MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "e2g1BADJ#mhcKQl4iYkA2pXs0DIDQjVG6NwGCpJ9KKE1a6tPSy44",
       "required": true,
       "value": ""
     },  
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII DEAR IM ONLINE.!!♻️"
+      "value": "HII DEAR DRIPPY-KID_MD IS ONLINE.!!♻️"
     },
     
     "PREFIX": {
@@ -57,8 +57,8 @@
 
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -81,38 +81,38 @@
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     },
 
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     
     }, 
 
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦Drippy-kid_MD"
     }, 
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY Drippy-kid_TECH"
     }
 
 },
